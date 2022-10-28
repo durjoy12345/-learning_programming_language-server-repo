@@ -10,7 +10,7 @@ const category = require('./data/categories.json');
 const details = require('./data/content.json');
 
 app.get('/', (req, res) => {
-    //   res.send('Hello World!')
+    res.send('Hello World!')
 })
 
 app.get('/category', (req, res) => {

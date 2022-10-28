@@ -2,77 +2,90 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 488,
     "time": 10,
     "lectures": "25",
-    "title": "The Complete English Grammar Course from A1 to C1 level",
+    "title": "c++ language",
     "author": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://www.learnenglishteam.com/wp-content/uploads/2021/07/english-levels-min.jpg",
-    "details": "In this course, you will see A1 - A2 Elementary Level English structures and their grammatical usage in different contexts and examples. With slow and clear explanations, you will learn fast and after watching each video lesson, you will be guided to do some activities to settle down the knowledge you have gained. You will just need to watch the videos and do the activities. Besides, we uploaded pdf documents attached to each video, on which the words used in the video are written. You can look up the dictionary to learn the meanings of the words before watching the video. This course is the best fit for the people all around the world, who are learning English as beginners or whose level is A1 Elementary Level. If you know some basic English and want to improve your skills to A1 - A2 Elementary Level, this course will really help you a lot. After watching the videos and doing the activities, you will see the difference in your speaking and writing skills. To sum up, in this course, you will complete all the A1 and A2 Elementary level grammar lessons and structures. After completing this course, you will be given a course completion certificate, which you can use anywhere in the world."
+    "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/titleShadow-1024x341.png",
+    "details": "Do you aspire to create applications and software but don’t know how to code or where to start? Look no further! This course gives you this knowledge and provides the opportunity you seek. It serves as a complete guide for you to learn to code from start to finish using C++, the powerful all-purpose programming language behind all the major applications, websites and software. This course busts the myth that coding is just for the chosen few."
   },
   {
     "_id": "f06f8cc035b04bd1158e4198281915a3",
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 127,
     "time": 10,
     "lectures": "25",
-    "title": "Auxiliary Verbs Can/Could and May/Might/Must",
+    "title": "python  language",
     "author": {
       "name": "Ukrainska Pravda",
       "published_date": "2022-08-25 18:53:49",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
-    "image_url": "https://test-english.com/staging03/wp-content/uploads/modal-verbs-of-deduction_new.png",
-    "details": "Can Used to express ability (to be able to do something): I can make jewelry. He can’t speak French. Can you open this jar? Used to ask for permission: Can I use your bathroom? Can I leave now? Can I raise the volume? Used to make requests or suggestions: Can I have more napkins? Can I have the bill? You can take this spot if you like. You can do whatever you want.Could (past form of can) Describes an ability that someone had in the past: I could swim when I was young. You could see the boat sinking. They could tell he was nervous. Often used in auxiliary functions to express permission politely: Could I take this jacket with me? You could borrow my umbrella. Could you please let me pass you? Could I get you more water? Used to express possibility: All of them could ride in the van. You could always stay at our house. Could it be true? This plan could really work out. May Used to ask for formal permission: May I come in? May I say something now? May I ask one question? Used to suggest something that is possible: She may agree with this plan. They may not be happy about what happened. It may shower tonight."
+    "image_url": "https://www.thewindowsclub.com/wp-content/uploads/2020/11/python-logo.png",
+    "details": "Welcome! Are you completely new to programming? If not then we presume you will be looking for information about why and how to get started with Python. Fortunately an experienced programmer in any programming language (whatever it may be) can pick up Python very quickly. It's also easy for beginners to use and learn, so jump in!"
   },
   {
     "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": null,
     "time": 7,
     "lectures": "11",
-    "title": "Singular and Plural Nouns",
+    "title": "javascript language",
     "author": {
       "name": null,
       "published_date": "2022-08-30 15:00:04",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-    "image_url": "https://i.ytimg.com/vi/7fACikJwNak/maxresdefault.jpg",
-    "details": "A noun names a person, place, thing, or idea. Usually, the first page of a grammar book tells you about nouns. Nouns give names of concrete or abstract things in our lives. As babies learn mom,dad, or milk as their first word, nouns should be the first topic when you study a foreign language."
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDIOuU60smppPvBPFRZXqtykzraGwWpV2cw&usqp=CAU",
+    "details": "Script is the world's most popular programming language. JavaScript is the programming language of the Web.JavaScript is easy to learn.This tutorial will teach you JavaScript from basic to advanced. JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user."
   },
-
   {
     "_id": "a713ee936ff5574273f0f769f5c5b20e",
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 111,
     "time": 14,
     "lectures": "14",
-    "title": "Count Nouns vs. Non-Count Nouns",
+    "title": "java language",
     "author": {
       "name": "system",
       "published_date": null,
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-    "image_url": "https://www.k5learning.com/sites/all/files/countable%20nouns.jpg",
-    "details": "Count nouns Can be counted as one or more. pen, computer, bottle, spoon, desk, cup, television, chair, shoe, finger, flower, camera, stick, balloon, book, table, comb, etc.Take an s to form the plural. pens, computers, bottles, spoons, desks, cups, televisions, chairs, shoes, fingers, flowers, cameras, sticks, balloons, books, tables, combs, etc. Work with expressions such as (a few, few, many, some, every, each, these, and the number of). a few pens, a few computers, many bottles, some spoons, every desk, each cup, these televisions, the number of chairs, a few shoes, a few fingers, many flowers, some cameras, every stick, each balloon, these books, the number of tables, many combs, etc. Work with appropriate articles (a, an, or the). a pen, the computer, a bottle, the spoon, a desk, the cup, a television, the chair, a shoe, the finger, a flower, the camera, a stick, the balloon, a book, the table, a comb, etc."
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeBw465hCBkBqWtdsTrM3fuiAF4MRyg5gmYw&usqp=CAU",
+    "details": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages."
   },
-
   {
     "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 733,
     "time": 3,
     "lectures": "7",
@@ -89,7 +102,10 @@
   {
     "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 733,
     "time": 6,
     "lectures": "13",
@@ -106,24 +122,30 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "category_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 488,
     "time": 12,
     "lectures": "27",
-    "title": "Boost English Reading Comprehension & ESL Listening Skills",
+    "title": "Data Stucture With c++",
     "author": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://m.media-amazon.com/images/I/91-855ANzdL.jpg",
-    "details": "Improve your English reading skills, while getting a great education! STEPS English Programs is pleased to offer Udemy's first course in reading comprehension and academic knowledge building. This fun interactive-quiz based course takes you step by step from 3rd grade level reading passages to 4th, 5th, 6th, and 7th grade level texts. Hundreds of interesting passages in the Sciences, Arts, & Humanities are included. You will improve your reading comprehension skills, while also increasing your knowledge of history, astronomy, inventions, famous people, nature & animals, sports, health, art, foreign cultures, technology, and more! The reading comprehension passages come in three lengths: 100, 250, and 500 words. Not too long. Not too short. These reading passages are the perfect length to improve online reading comprehension. Use the free Wiktionary & Google Translate tool for Firefox to get immediate dictionary definitions and translations into over 70 languages. All students can benefit from taking the STEPS Reading Comprehension Tests Program, including Primary School & High School students, Home school students, and ESL students. Completion time will vary. We do not suggest that students speed though the course, spending hours at a time working through the passages and quizzes. We suggest that students do only 1 or 2 reading quizzes and one video reading quiz a day. At this speed, students can expect to complete the course in 33-48 days."
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRytb998aYrcsLW5CfkVL5puFvktbh0Ovr6Gw&usqp=CAU",
+    "details": "Efficiently organizing and applying information can give you an advantage in the field by making your code easier to navigate and understand. If you are a programmer or looking to become one, begin a data structures and algorithms course on Udemy, and learn from top rated computer professionals"
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
     "category_id": "03",
-    "rating": { "number": 4.8, "badge": "Excellent" },
+    "rating": {
+      "number": 4.8,
+      "badge": "Excellent"
+    },
     "total_view": 400,
     "time": 15,
     "lectures": "32",
@@ -140,7 +162,10 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
     "category_id": "04",
-    "rating": { "number": 4.3, "badge": "Excellent" },
+    "rating": {
+      "number": 4.3,
+      "badge": "Excellent"
+    },
     "total_view": 400,
     "time": 16,
     "lectures": "25",
@@ -157,7 +182,10 @@
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
     "category_id": "05",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 980,
     "time": 8,
     "lectures": "20",
@@ -174,7 +202,10 @@
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
     "category_id": "06",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 980,
     "time": 14,
     "lectures": "23",
@@ -188,7 +219,6 @@
     "image_url": "https://spokenenglishindia.com/wp-content/uploads/2014/03/presentation-skills.jpg",
     "details": "This course is all about presenting the story of the data, using PowerPoint. You'll learn how to structure a presentation, to include insights and supporting data. You'll also learn some design principles for effective visuals and slides. You'll gain skills for client-facing communication - including public speaking, executive presence and compelling storytelling. Finally, you'll be given a client profile, a business problem, and a set of basic Excel charts, which you'll need to turn into a presentation - which you'll deliver with iterative peer feedback."
   },
-
   {
     "_id": "f06f8cc035b04bd1158e4198281915a4",
     "others_info": {
@@ -196,7 +226,10 @@
       "is_trending": true
     },
     "category_id": "05",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 127,
     "time": 8,
     "lectures": "16",
@@ -210,7 +243,6 @@
     "image_url": "https://i.ytimg.com/vi/U3G5W2Kdr74/maxresdefault.jpg",
     "details": "On Thursday night’s episode of Up Late, Ben Harvey has suggested Troy Mercanti start an OnlyFans account if he wishes to challenge anti-consorting laws. The notorious bikie will fight allegations that he broke WA’s stringent anti-consorting and insignia laws — but is also watching a High Court challenge to the regulations which the State Government have touted have the nation’s toughest against outlaw motorcycle gang members. The long-time one per center was not in court on Wednesday when the not guilty pleas were entered. WATCH UP LATE IN THE VIDEO PLAYER ABOVE But his lawyer Paul Holmes was, who revealed that Mercanti’s defence will be on two fronts — against elements of the alleged offence, and the legislation itself. Mercanti was charged with the two offences outside an Italian restaurant in front of shocked onlookers earlier this year. According to eyewitnesses, Mercanti — dressed in a T-shirt and shorts — was having lunch with long-time friend John Kizon at Mt Hawthorn’s Lupo Lab when more than a dozen officers from the gang crime squad descended and asked him to step outside. Soon afterwards, he was told he was being charged via summons with displaying gang insignia, which was prohibited under sweeping laws that came into effect a few months ago. Earlier the same week, Mercanti was hit with a dispersal notice by police while picking up a friend at the airport. Mercanti’s case was adjourned until October to be allocated a trial date. On Up Late, Harvey warned fighting in court may get expensive for Mercanti, and suggested a way he may be able to come up with the cash. Harvey may have gotten the idea after it was this week revealed that Dhakota Williams — the 21-year-old daughter of slain underworld king Carl Williams started an OnlyFans account. “If it’s good enough for the wife and daughter of slain gangland boss Carl Williams then it’s gotta be good enough for Troy Mercanti,” Harvey says. “See Troy’s OnlyFans page for exclusive tips for how a modern outlaw can best accessorise… find out why black and white are the only colours you need in your wardrobe… a showcase of latest leather trends… tips on keeping healthy. “And exclusively for OnlyFans subscribers... an inside look at the man who put the soft into soft serve, how he relaxes listing to 80s glam-rock and some cosplay as a Lego spaceman.”"
   },
-
   {
     "_id": "cd2b53655737cc4077542baea9f8f75d",
     "others_info": {
@@ -218,19 +250,22 @@
       "is_trending": true
     },
     "category_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 700,
     "time": 31,
     "lectures": "53",
-    "title": "Students will learn the basics of reading individual words, phrases, and sentences as a beginner reader.",
+    "title": "Data Stucture With Python",
     "author": {
       "name": "Daniel Deangelo",
       "published_date": "2022-08-30 20:02:52",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.pinimg.com/originals/24/9f/f2/249ff2483ab84bfe6017ded3d78676db.jpg",
-    "details": "Robert Davi will be a pretty familiar face to fans of entertainment from the 1980s and 1990s, with supporting roles in The Goonies, Die Hard, and many other films and TV shows. He also lent his voice to Colonel Juan Cortez, a significant character in Grand Theft Auto: Vice City. Meanwhile, Halo fans will recognize his voice as that of the Elite Shipmaster Ratas Vadum from Halo 2 and Halo 3. He's responsible for some of the trilogy's most iconic scenes, including his speech in Halo 2 and 'Then it is an even fight' line in Halo 3."
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpo1NKfaLCKGNEzmq5kHnQmHRkUQnGvTiCJg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpo1NKfaLCKGNEzmq5kHnQmHRkUQnGvTiCJg&usqp=CAU",
+    "details": "Python has implicit support for Data Structures which enable you to store and access data. These structures are called List, Dictionary, Tuple and Set. Python allows its users to create their own Data Structures enabling them to have full control over their functionality."
   },
   {
     "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
@@ -239,7 +274,10 @@
       "is_trending": false
     },
     "category_id": "07",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 300,
     "time": 32,
     "lectures": "48",
@@ -260,7 +298,10 @@
       "is_trending": true
     },
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 320,
     "time": 23,
     "lectures": "42",
@@ -281,19 +322,22 @@
       "is_trending": false
     },
     "category_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 552,
     "time": 32,
     "lectures": "63",
-    "title": "Students will learn to become a fully proficient reader in the English language.",
+    "title": "Data Structure With Javascript",
     "author": {
       "name": "system",
       "published_date": "2022-08-27 05:38:02",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPYEO0jLJKo04Ak8aCMnPpiMk8JGfm3poBw&usqp=CAU",
-    "details": "Agencies | Washington The Daily Tribune – www.newsofbahrain.com The US President Joe Biden plans to appoint a general in Ukraine to lead the military training and relief efforts, the Wall Street Journal reported citing US officials. The officials indicated that in the coming weeks, the US administration also plans to name its military mission to support Ukraine. The name of the operation formally recognises US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'."
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6S290vl-g91D80riJQvAOgnerhyeRro-Akw&usqp=CAU",
+    "details": "In JavaScript, an object is a collection of key-value pairs. This data structure is also called map, dictionary or hash-table in other programming languages. We use curly braces to declare the object. Then declare each key followed by a colon, and the corresponding value."
   },
   {
     "_id": "919db97c34e0778b387dd40cdfa08130",
@@ -302,7 +346,10 @@
       "is_trending": true
     },
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 89,
     "time": 42,
     "lectures": "67",
@@ -323,7 +370,10 @@
       "is_trending": true
     },
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 798,
     "time": 34,
     "lectures": "53",
@@ -344,19 +394,22 @@
       "is_trending": true
     },
     "category_id": "03",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 879,
     "time": 18,
     "lectures": "37",
-    "title": "English freehand writing skill develepment. Basic to advance.",
+    "title": "algorithom with java",
     "author": {
       "name": "RTTNews",
       "published_date": "2022-08-25 11:53:13",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-    "image_url": "https://i.pinimg.com/originals/cd/69/12/cd6912a289f32d09cb3aa6fd93e33c40.png",
-    "details": "The United States has pledged nearly $3 billion in additional security assistance for Ukraine to help fight Russia's invasion as well as enable the country to defend itself over the long term. The latest aid package, under the Ukraine Security Assistance Initiative (USAI), was announced by President Joe Biden on Ukraine's Independence Day. This will allow Ukraine to acquire air defense systems,"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1NEunk8oZGRSJkNuR_VvdiOMV6j7YoqRnYw&usqp=CAU",
+    "details": "The concept of efficiency is often associated with algorithms. A programs efficiency, i.e, the computation of required information fast enough, is an integral part of a programs usability. If it took two days for an algorithm designed for forecasting tomorrows weather run, the results wouldn't be very useful! Similarly, a user viewing a TVs program guide won't get any use out of it, if the tv-shows info only loads after the show already ended. In a more general sense, retrieving and displaying information quickly is an integral part of any applications function. Next let's explore algorithms associated with retrieving and sorting information. While the following examples utilize arrays, the algorithms shown will also work with other data-structures meant for storing information, such as lists."
   },
   {
     "_id": "be44c843d61859cc0b87cae85c55f9db",
@@ -365,7 +418,10 @@
       "is_trending": true
     },
     "category_id": "01",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 231,
     "time": 9,
     "lectures": "14",
@@ -386,19 +442,22 @@
       "is_trending": true
     },
     "category_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 546,
     "time": 25,
     "lectures": "48",
-    "title": "Improved English Reading Comprehension",
+    "title": "Data Structure With Java",
     "author": {
       "name": "The Philadelphia Inquirer",
       "published_date": "2022-08-30 22:00:00",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://www.fluentu.com/blog/english/wp-content/uploads/sites/4/2015/07/how-to-improve-english-reading-skills.jpg",
-    "details": "Advertisement Advertisement Today at 6:00 p.m. by The Philadelphia Inquirer President Joe Biden delivers remarks on the Safer America Plan, intended to prevent dangerous people from accessing firearms, at the Arnaud C. Marts Center in Wilkes-Barre, Penn. on Tuesday Aug. 30, 2022. (Doug Mills/The New York Times)   It is time to give President Joe Biden his due. While Biden's approval rating doesn't reflect it, Uncle Joe is on a roll. After some bumpy months, gas prices are dropping, unemployment is at record lows, the job market is booming, incomes are rising, a top al-Qaida leader was taken out, the first Black female Supreme Court justice was seated, NATO has expanded, and Biden unified European support for Ukraine in its fight against Russia."
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIRtZqiWgP8Yxu-efDKfVvbuTHLcDig3ljNA&usqp=CAU",
+    "details": "Data Structure in java is defined as the collection of data pieces that offers an effective means of storing and organising data in a computer. Linked List, Stack, Queue, and arrays are a few examples of java data structures.Data Structures (DS) tutorial provides basic and advanced concepts of Data Structure. Our Data Structure tutorial is designed for beginners and professionals.Data Structure is a way to store and organize data so that it can be used efficiently."
   },
   {
     "_id": "7f5b80c1cdd4df0111918883eae07349",
@@ -407,20 +466,23 @@
       "is_trending": true
     },
     "category_id": "03",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "total_view": 1870,
     "time": 22,
     "lectures": "45",
-    "title": "Anyone can write good english, just take care of these few simple tings",
+    "title": "algorithom with javascript",
     "author": {
       "name": "system",
       "published_date": "2022-08-24 23:15:00",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-    "image_url": "https://7esl.com/wp-content/uploads/2020/04/How-to-improve-Writing-Skills-1.jpg",
+    "image_url": "https://miro.medium.com/max/1056/1*lY9Zib6K5AUk98gXLUK1HQ.png",
     "published_date": "2022-08-24 18:00:00",
-    "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story"
+    "details": "While HTML and CSS control the content and styling of a page, JavaScript is used to make i interactive. In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.Once you have the fundamentals down, you'll apply that knowledge by creating algorithms to manipulate strings, factorialize numbers, and even calculate the orbit of the International Space Station. Along the way, you'll also learn two important programming styles or paradigms: Object Oriented Programming (OOP) and Functional Programming (FP)."
   },
   {
     "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
@@ -429,7 +491,10 @@
       "is_trending": true
     },
     "category_id": "07",
-    "rating": { "number": 4.2, "badge": "Excellent" },
+    "rating": {
+      "number": 4.2,
+      "badge": "Excellent"
+    },
     "total_view": 354,
     "time": 20,
     "lectures": "42",
@@ -450,7 +515,10 @@
       "is_trending": true
     },
     "category_id": "05",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "time": 10,
     "lectures": "22",
     "total_view": 100,
@@ -471,7 +539,10 @@
       "is_trending": false
     },
     "category_id": "04",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
     "time": 15,
     "lectures": "32",
     "total_view": 100,
