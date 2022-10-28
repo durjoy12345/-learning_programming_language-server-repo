@@ -1,0 +1,488 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "time": 10,
+    "lectures": "25",
+    "title": "The Complete English Grammar Course from A1 to C1 level",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.learnenglishteam.com/wp-content/uploads/2021/07/english-levels-min.jpg",
+    "details": "In this course, you will see A1 - A2 Elementary Level English structures and their grammatical usage in different contexts and examples. With slow and clear explanations, you will learn fast and after watching each video lesson, you will be guided to do some activities to settle down the knowledge you have gained. You will just need to watch the videos and do the activities. Besides, we uploaded pdf documents attached to each video, on which the words used in the video are written. You can look up the dictionary to learn the meanings of the words before watching the video. This course is the best fit for the people all around the world, who are learning English as beginners or whose level is A1 Elementary Level. If you know some basic English and want to improve your skills to A1 - A2 Elementary Level, this course will really help you a lot. After watching the videos and doing the activities, you will see the difference in your speaking and writing skills. To sum up, in this course, you will complete all the A1 and A2 Elementary level grammar lessons and structures. After completing this course, you will be given a course completion certificate, which you can use anywhere in the world."
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "time": 10,
+    "lectures": "25",
+    "title": "Auxiliary Verbs Can/Could and May/Might/Must",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+    "image_url": "https://test-english.com/staging03/wp-content/uploads/modal-verbs-of-deduction_new.png",
+    "details": "Can Used to express ability (to be able to do something): I can make jewelry. He can’t speak French. Can you open this jar? Used to ask for permission: Can I use your bathroom? Can I leave now? Can I raise the volume? Used to make requests or suggestions: Can I have more napkins? Can I have the bill? You can take this spot if you like. You can do whatever you want.Could (past form of can) Describes an ability that someone had in the past: I could swim when I was young. You could see the boat sinking. They could tell he was nervous. Often used in auxiliary functions to express permission politely: Could I take this jacket with me? You could borrow my umbrella. Could you please let me pass you? Could I get you more water? Used to express possibility: All of them could ride in the van. You could always stay at our house. Could it be true? This plan could really work out. May Used to ask for formal permission: May I come in? May I say something now? May I ask one question? Used to suggest something that is possible: She may agree with this plan. They may not be happy about what happened. It may shower tonight."
+  },
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": null,
+    "time": 7,
+    "lectures": "11",
+    "title": "Singular and Plural Nouns",
+    "author": {
+      "name": null,
+      "published_date": "2022-08-30 15:00:04",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://i.ytimg.com/vi/7fACikJwNak/maxresdefault.jpg",
+    "details": "A noun names a person, place, thing, or idea. Usually, the first page of a grammar book tells you about nouns. Nouns give names of concrete or abstract things in our lives. As babies learn mom,dad, or milk as their first word, nouns should be the first topic when you study a foreign language."
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 111,
+    "time": 14,
+    "lectures": "14",
+    "title": "Count Nouns vs. Non-Count Nouns",
+    "author": {
+      "name": "system",
+      "published_date": null,
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://www.k5learning.com/sites/all/files/countable%20nouns.jpg",
+    "details": "Count nouns Can be counted as one or more. pen, computer, bottle, spoon, desk, cup, television, chair, shoe, finger, flower, camera, stick, balloon, book, table, comb, etc.Take an s to form the plural. pens, computers, bottles, spoons, desks, cups, televisions, chairs, shoes, fingers, flowers, cameras, sticks, balloons, books, tables, combs, etc. Work with expressions such as (a few, few, many, some, every, each, these, and the number of). a few pens, a few computers, many bottles, some spoons, every desk, each cup, these televisions, the number of chairs, a few shoes, a few fingers, many flowers, some cameras, every stick, each balloon, these books, the number of tables, many combs, etc. Work with appropriate articles (a, an, or the). a pen, the computer, a bottle, the spoon, a desk, the cup, a television, the chair, a shoe, the finger, a flower, the camera, a stick, the balloon, a book, the table, a comb, etc."
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "time": 3,
+    "lectures": "7",
+    "title": "Possessive Nouns Possessive nouns are used to indicate ownership. Possessive nouns usually are formed by adding an apostrophe (') and s.",
+    "author": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://www.grammar-monster.com/glossary/pics/possessive_nouns.png",
+    "details": "Ohn's book Kerry's car Grandma's mirror When a noun is plural and ends in s, just add an apostrophe ('). The kids' toys My parents' house The teachers' lounge If two people own one thing, add the apostrophe and s to the second person only.John and Mary's new house David and Sue's wedding Tom and Doug's car If two people own separate things, add the apostrophe and s for each person. Susan's and Beth's books Jean's and Dan's pants Ben's and Jim's offices"
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "time": 6,
+    "lectures": "13",
+    "title": "Comparative and Superlative Adjectives",
+    "author": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
+    "image_url": "https://img.freepik.com/free-vector/comparative-superlative-adjectives-word-sad_1308-68498.jpg?w=2000",
+    "details": "Comparative adjectives compare two things. Superlativ adjectives compare more than two things Commonly, adjectives that contain only one syllable or end in 'y' use 'er' to form comparatives and 'est' to form superlatives. For adjectives ending in y, change the 'y' to 'i' before adding the 'er' or 'est'. old – older – oldest young – younger – youngest pretty – prettier – prettiest long – longer – longest short – shorter – shortest bright – brighter – brightest close – closer – closest  happy – happier - happiest Adjectives with two or more syllables do not change but instead add more to form comparatives and most to form superlatives. respectable – more respectable – most respectable beautiful – more beautiful – most beautiful preferable – more preferable – most preferable hardworking – more hardworking – most hardworking Some adjectives have different forms of comparatives and superlatives. good – better – best bad – worse – worst little – less – least much (many) – more – most far – further - furthest The word than typically appears in comparative sentences. Amy is smarter than Betty. Chad is stronger than Dan. Greg is more diligent than his brother. I have more apples than he. She likes him more than me. Superlatives are typically accompanied by the word the. Tom is the oldest man in town. Paul is the tallest boy in the neighborhood. That shade of blue is the most beautiful color. This is the longest song that I have ever heard."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "time": 12,
+    "lectures": "27",
+    "title": "Boost English Reading Comprehension & ESL Listening Skills",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://m.media-amazon.com/images/I/91-855ANzdL.jpg",
+    "details": "Improve your English reading skills, while getting a great education! STEPS English Programs is pleased to offer Udemy's first course in reading comprehension and academic knowledge building. This fun interactive-quiz based course takes you step by step from 3rd grade level reading passages to 4th, 5th, 6th, and 7th grade level texts. Hundreds of interesting passages in the Sciences, Arts, & Humanities are included. You will improve your reading comprehension skills, while also increasing your knowledge of history, astronomy, inventions, famous people, nature & animals, sports, health, art, foreign cultures, technology, and more! The reading comprehension passages come in three lengths: 100, 250, and 500 words. Not too long. Not too short. These reading passages are the perfect length to improve online reading comprehension. Use the free Wiktionary & Google Translate tool for Firefox to get immediate dictionary definitions and translations into over 70 languages. All students can benefit from taking the STEPS Reading Comprehension Tests Program, including Primary School & High School students, Home school students, and ESL students. Completion time will vary. We do not suggest that students speed though the course, spending hours at a time working through the passages and quizzes. We suggest that students do only 1 or 2 reading quizzes and one video reading quiz a day. At this speed, students can expect to complete the course in 33-48 days."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "03",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "time": 15,
+    "lectures": "32",
+    "title": "Improve your English Writing by building the skills you need for business, academic, or personal use",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://www.international-lan.com/wp-content/uploads/2017/11/English-Writing-Course-Hong-Kong.png",
+    "details": "Writing in English is difficult, especially if you are still learning the language. Yet, we now write more than ever, whether at work, school, or in life. This course will help you improve your writing by giving you video lessons, downloadable resources, quizzes, and assignments. This English writing course will help you improve in all the forms of writing. Do you use English at work? You can improve your emails, reports, and written communication. Are you using English at school? Better writing can help with essays and other assignments. You can improve in any type of English writing with this course. Each section reviews language and writing rules, including grammar, punctuation, vocabulary, and structure. You will also see strategies and tips to write more clearly. You can practice all these rules and strategies with the exercises and assignments. I invite you to watch the preview videos so you can get an idea of how this course can help you. I believe the 25+ video lessons cover all the key skills you need to improve your writing. When you combine them with the hundreds of quiz questions and the practice exercises, you have everything you need to become a great writer."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "04",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "time": 16,
+    "lectures": "25",
+    "title": "Improve Your English Listening Skills With Movie Quotes",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+    "image_url": "https://i.ytimg.com/vi/JzbX33Jm_W0/maxresdefault.jpg",
+    "details": "If you have been learning English for a long time, but get confused by fast speech, then I highly recommend taking this intensive course. It will be helpful!!! Anyone who has problems with listening or who just wants to immerse themselves in the practice of listening, then welcome!!! Do you find it hard to understand native speakers when they talk fast? Would you love to connect and fit in with native speakers on your travels or as part of a new life abroad? Do you love watching movies and TV shows in English? Then this course is for you. Using quotes from 3 of my favourite films, you'll discover why it's hard to understand fast-talking native speakers and what to do about it. By the end of this course, you'll catch fast, native English better and you'll know what to do to continue improving your listening skills with your favourite movie or TV show. If you have been learning English for a long time, but get confused by fast speech, then be sure to come. It will be helpful. Anyone who has problems with listening or who just wants to immerse themselves in the practice of listening, then welcome Anyone who wants to improve their English listening comprehension"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "time": 8,
+    "lectures": "20",
+    "title": "Improve Communication: Speak Smoothly, Clearly & Confidently",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://assets.thehansindia.com/hansindia-bucket/spe_1579.jpg",
+    "details": "How to Improve Communication Skills  (Major Updates Coming Soon!) Do you struggle with getting your words out when explaining things in important situations, situations like interviews, presentations, meetings, phone or video conferences?  Do you become anxious, nervous tense up, loose track of where you're at, speak too fast, or even stutter?  Do people sometimes have trouble understanding you because English is your second language? If you answered yes to any of the above, relax…help is finally here!  My name is Michael Williams and I stuttered for over 20 years.  For the past two decades I've made my living speaking.  I teach academic success as a professor, have conducted day-long and multi-day relationship and communication retreats, taught in churches, spoke on live T.V., radio and much more.  I've even taught small classes in Spanish.  I now work with people from all around the world helping them learn to speak more smoothly, fluently, clearly and confidently.  I call this type of speech Proactive. Eventually, I created a step-by-step process for becoming a Proactive Speaker and I call this the PR90D Speech System.  If you struggle with speaking well, this course can literally transform your life.  You probably know from personal experience that not being able to speak well can limit your career choices, restrict your social life, and restrict your relationships.  I've worked with people who could not get jobs, or who were being paid up to 30% less because of their speech.  These were brilliantly intelligent people, but because of speech limitations, they were not able to express themselves the way they wanted. If you're willing to put in the time and work, the information in this course will transform your life.  If you're not, do not waste your time taking it.  While the information may be great, it will do you no good if you don't practice using it.  Also, be willing to take however, long it takes to get the results you want.  This is not a quick fix.  Certainly, you may see amazingly fast results, but don't be disappointed and give it if this doesn't happen.  Expect that this will take longer than you expect and be more difficult that you anticipate.  The time will pass anyway, so the only question is, will you be doing something to make positive changes while the time is passing? This course contains over 16 transformative sessions (over 3 hours of instruction).  Michael will demonstrate exactly what you need to do to accomplish the goals laid out in this course.  If you follow his instructions, you will see results. "
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "time": 14,
+    "lectures": "23",
+    "title": "Effective Business Presentations with Powerpoint. 10 Simple tips to develp great presentation skills.",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://spokenenglishindia.com/wp-content/uploads/2014/03/presentation-skills.jpg",
+    "details": "This course is all about presenting the story of the data, using PowerPoint. You'll learn how to structure a presentation, to include insights and supporting data. You'll also learn some design principles for effective visuals and slides. You'll gain skills for client-facing communication - including public speaking, executive presence and compelling storytelling. Finally, you'll be given a client profile, a business problem, and a set of basic Excel charts, which you'll need to turn into a presentation - which you'll deliver with iterative peer feedback."
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "time": 8,
+    "lectures": "16",
+    "title": "6 things to practice every day to improve your english communication skills.",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+    "image_url": "https://i.ytimg.com/vi/U3G5W2Kdr74/maxresdefault.jpg",
+    "details": "On Thursday night’s episode of Up Late, Ben Harvey has suggested Troy Mercanti start an OnlyFans account if he wishes to challenge anti-consorting laws. The notorious bikie will fight allegations that he broke WA’s stringent anti-consorting and insignia laws — but is also watching a High Court challenge to the regulations which the State Government have touted have the nation’s toughest against outlaw motorcycle gang members. The long-time one per center was not in court on Wednesday when the not guilty pleas were entered. WATCH UP LATE IN THE VIDEO PLAYER ABOVE But his lawyer Paul Holmes was, who revealed that Mercanti’s defence will be on two fronts — against elements of the alleged offence, and the legislation itself. Mercanti was charged with the two offences outside an Italian restaurant in front of shocked onlookers earlier this year. According to eyewitnesses, Mercanti — dressed in a T-shirt and shorts — was having lunch with long-time friend John Kizon at Mt Hawthorn’s Lupo Lab when more than a dozen officers from the gang crime squad descended and asked him to step outside. Soon afterwards, he was told he was being charged via summons with displaying gang insignia, which was prohibited under sweeping laws that came into effect a few months ago. Earlier the same week, Mercanti was hit with a dispersal notice by police while picking up a friend at the airport. Mercanti’s case was adjourned until October to be allocated a trial date. On Up Late, Harvey warned fighting in court may get expensive for Mercanti, and suggested a way he may be able to come up with the cash. Harvey may have gotten the idea after it was this week revealed that Dhakota Williams — the 21-year-old daughter of slain underworld king Carl Williams started an OnlyFans account. “If it’s good enough for the wife and daughter of slain gangland boss Carl Williams then it’s gotta be good enough for Troy Mercanti,” Harvey says. “See Troy’s OnlyFans page for exclusive tips for how a modern outlaw can best accessorise… find out why black and white are the only colours you need in your wardrobe… a showcase of latest leather trends… tips on keeping healthy. “And exclusively for OnlyFans subscribers... an inside look at the man who put the soft into soft serve, how he relaxes listing to 80s glam-rock and some cosplay as a Lego spaceman.”"
+  },
+
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 700,
+    "time": 31,
+    "lectures": "53",
+    "title": "Students will learn the basics of reading individual words, phrases, and sentences as a beginner reader.",
+    "author": {
+      "name": "Daniel Deangelo",
+      "published_date": "2022-08-30 20:02:52",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.pinimg.com/originals/24/9f/f2/249ff2483ab84bfe6017ded3d78676db.jpg",
+    "details": "Robert Davi will be a pretty familiar face to fans of entertainment from the 1980s and 1990s, with supporting roles in The Goonies, Die Hard, and many other films and TV shows. He also lent his voice to Colonel Juan Cortez, a significant character in Grand Theft Auto: Vice City. Meanwhile, Halo fans will recognize his voice as that of the Elite Shipmaster Ratas Vadum from Halo 2 and Halo 3. He's responsible for some of the trilogy's most iconic scenes, including his speech in Halo 2 and 'Then it is an even fight' line in Halo 3."
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "07",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 300,
+    "time": 32,
+    "lectures": "48",
+    "title": "Joe Biden announces $3B in new military aid to Ukraine",
+    "author": {
+      "name": "",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+    "details": "Washington, Aug 24 (Prensa Latina) President Joe Biden has announced he will allot nearly billion in military aid to Kyiv – the biggest US package so far since the beginning of the Russian military…"
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 320,
+    "time": 23,
+    "lectures": "42",
+    "title": "Transformation of the sentences 1. English Grammar Topics List PDF",
+    "author": {
+      "name": "John Pike",
+      "published_date": "2022-08-25 07:35:11",
+      "img": "https://blogmedia.testbook.com/blog/wp-content/uploads/2021/03/hhh-9b62af3f.png"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://blogmedia.testbook.com/blog/wp-content/uploads/2021/03/hhh-9b62af3f.png",
+    "details": "People's Daily Online (Xinhua) 08:16, August 25, 2022 The United States has committed more than 13.5 billion dollars in security assistance to Ukraine since President Joe Biden took office. WASHINGTON, Aug. 24 (Xinhua) -- The United States on Wednesday announced an additional tranche of security assistance to Ukraine worth nearly 3 billion U.S. dollars, the largest one-time weapons aid to Kiev that came as the Russia-Ukraine conflict reached the half-year mark. According to a breakdown by the Department of Defense (DoD), items in the newly-announced package include six additional National Advanced Surface-to-Air Missile Systems (NASAMS) with additional munitions for NASAMS, up to 245,000 rounds of 155mm artillery ammunition, up to 65,000 rounds of 120mm mortar ammunition, up to 24 counter-artillery radars, Puma Unmanned Aerial Systems (UAS) and support equipment for Scan Eagle UAS systems,   Vampire   counter-UAS systems, as well as laser-guided rocket systems."
+  },
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 552,
+    "time": 32,
+    "lectures": "63",
+    "title": "Students will learn to become a fully proficient reader in the English language.",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-27 05:38:02",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPYEO0jLJKo04Ak8aCMnPpiMk8JGfm3poBw&usqp=CAU",
+    "details": "Agencies | Washington The Daily Tribune – www.newsofbahrain.com The US President Joe Biden plans to appoint a general in Ukraine to lead the military training and relief efforts, the Wall Street Journal reported citing US officials. The officials indicated that in the coming weeks, the US administration also plans to name its military mission to support Ukraine. The name of the operation formally recognises US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'."
+  },
+  {
+    "_id": "919db97c34e0778b387dd40cdfa08130",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 89,
+    "time": 42,
+    "lectures": "67",
+    "title": "The same word used as different parts of speech. English Grammar Topics List PDF",
+    "author": {
+      "name": "MarketScreener",
+      "published_date": "2022-08-30 18:05:42",
+      "img": "https://i.pinimg.com/originals/a3/97/ea/a397ea1d2404096320e855507d0376d2.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://i.pinimg.com/originals/a3/97/ea/a397ea1d2404096320e855507d0376d2.jpg",
+    "details": "Last month, Moscow announced plans to hold   Vostok   (East) exercises from Aug. 30 to Sept. 5, even as it wages a costly war in Ukraine. The military exercises are expected to include China, India, Belarus, Mongolia, Tajikistan and other countries, China's defense ministry has said. Asked about India's participation, Jean-Pierre told reporters as President Joe Biden flew to Pennsylvania that the United States was concerned about any country participating in military exercises with Russia while it is at war with Ukraine."
+  },
+  {
+    "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 798,
+    "time": 34,
+    "lectures": "53",
+    "title": "Conditionals: Definition, Structure & ExamplesTypes of Conditionals",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-25 18:45:00",
+      "img": "https://i.pinimg.com/736x/f2/26/fe/f226fe4357d75042ff55873b1771e256--word-order-sentence-structure.jpg"
+    },
+    "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+    "image_url": "https://i.pinimg.com/736x/f2/26/fe/f226fe4357d75042ff55873b1771e256--word-order-sentence-structure.jpg",
+    "details": "KIEV, August 25. /TASS/. Ukrainian President Vladimir Zelensky said he had a   great   phone conversation with his US counterpart Joe Biden and discussed with him Ukraine's further actions on Thursday.    Had a great conversation with @POTUS. Thanked for the unwavering U.S. support for Ukrainian people - security and financial,   he wrote on Twitter.   We discussed Ukraine's further steps,   Zelensky added.  On Wednesday, US President Joe Biden announced $2.98 bln in military aid to Ukraine. On the same day, Ukrainian Prime Minister Denis Shmygal reported that the Ukrainian state budget received grant aid from the US in the amount of $3 bln."
+  },
+  {
+    "_id": "acb9b6785b62698fc6130db7615965e1",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 879,
+    "time": 18,
+    "lectures": "37",
+    "title": "English freehand writing skill develepment. Basic to advance.",
+    "author": {
+      "name": "RTTNews",
+      "published_date": "2022-08-25 11:53:13",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://i.pinimg.com/originals/cd/69/12/cd6912a289f32d09cb3aa6fd93e33c40.png",
+    "details": "The United States has pledged nearly $3 billion in additional security assistance for Ukraine to help fight Russia's invasion as well as enable the country to defend itself over the long term. The latest aid package, under the Ukraine Security Assistance Initiative (USAI), was announced by President Joe Biden on Ukraine's Independence Day. This will allow Ukraine to acquire air defense systems,"
+  },
+  {
+    "_id": "be44c843d61859cc0b87cae85c55f9db",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 231,
+    "time": 9,
+    "lectures": "14",
+    "title": "Subject-Verb Agreement: Rules & Examples",
+    "author": {
+      "name": "Kumar Natasha",
+      "published_date": "2022-08-26 12:15:36",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Was%2C_Were_-_Grammar_Structure_for_Verb_To_Be_in_Past_Simple.jpg"
+    },
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Was%2C_Were_-_Grammar_Structure_for_Verb_To_Be_in_Past_Simple.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Was%2C_Were_-_Grammar_Structure_for_Verb_To_Be_in_Past_Simple.jpg",
+    "details": "Illustrative public photo In the coming weeks, the Joe Biden administration plans to name its military mission to support Ukraine and appoint a general to lead the military training and relief efforts. This is reported by The Wall Street Journal, citing US officials. The name of the operation formally recognizes US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'. The naming of training and assistance is of great bureaucratic importance, as it usually entails long-term dedicated funding and the possibility of special pay, rewards for military personnel participating in these missions."
+  },
+  {
+    "_id": "1b03149c50f1bec662062d930bf46489",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 546,
+    "time": 25,
+    "lectures": "48",
+    "title": "Improved English Reading Comprehension",
+    "author": {
+      "name": "The Philadelphia Inquirer",
+      "published_date": "2022-08-30 22:00:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image_url": "https://www.fluentu.com/blog/english/wp-content/uploads/sites/4/2015/07/how-to-improve-english-reading-skills.jpg",
+    "details": "Advertisement Advertisement Today at 6:00 p.m. by The Philadelphia Inquirer President Joe Biden delivers remarks on the Safer America Plan, intended to prevent dangerous people from accessing firearms, at the Arnaud C. Marts Center in Wilkes-Barre, Penn. on Tuesday Aug. 30, 2022. (Doug Mills/The New York Times)   It is time to give President Joe Biden his due. While Biden's approval rating doesn't reflect it, Uncle Joe is on a roll. After some bumpy months, gas prices are dropping, unemployment is at record lows, the job market is booming, incomes are rising, a top al-Qaida leader was taken out, the first Black female Supreme Court justice was seated, NATO has expanded, and Biden unified European support for Ukraine in its fight against Russia."
+  },
+  {
+    "_id": "7f5b80c1cdd4df0111918883eae07349",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 1870,
+    "time": 22,
+    "lectures": "45",
+    "title": "Anyone can write good english, just take care of these few simple tings",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+    "image_url": "https://7esl.com/wp-content/uploads/2020/04/How-to-improve-Writing-Skills-1.jpg",
+    "published_date": "2022-08-24 18:00:00",
+    "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story"
+  },
+  {
+    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "07",
+    "rating": { "number": 4.2, "badge": "Excellent" },
+    "total_view": 354,
+    "time": 20,
+    "lectures": "42",
+    "title": "‘Self-obsessed liar’: Meghan mocked for Mandela story",
+    "author": {
+      "name": "Presstv",
+      "published_date": "2022-08-30 17:44:16",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+    "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
+    "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits actress recalled an encounter she had at the 2019 London premiere of 'The Lion King' with an actor from South Africa who made a comparison to her wedding with Prince Harry and Nelson Mandela. “He looked at me, and he’s just like light. He said, ‘I just need you to know: When you married into this family, we rejoiced in the streets the same we did when Mandela was freed from prison,’” she said during an interview with The Cut. The Daily Mail revealed Dr John Kani, who claims he was the only South African actor in the film, said he did not attend the premiere and had never met the Duchess of Sussex. \"I have never met Meghan Markle,\" he told the MailOnline. \"This seems like something of a faux pas by her. I have I have never met the duchess at all. I am the only South African member of the cast and I did not attend the premiere in London. \"The only South African was me playing Rafiki. But I did not go to the opening in Leicester Square as I didn't have the time to do that. It just may be a mis-remembering on her side. \"It is baffling me.\" Nelson Mandela’s grandson said he was “surprised” when he heard Ms Markle compare her wedding with Prince Harry to his grandfather being freed from prison. He said it “cannot be equated to as the same\". The Duchess of Sussex was met with heavy criticism online after she told the story to The Cut. \"The damage her and her husband are doing to the Queen and the Royal Family is incalculable... these two hypocritical, self-obsessed liars are in the end going to be ignored,\" said Nigel Farage"
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "time": 10,
+    "lectures": "22",
+    "total_view": 100,
+    "title": "3 Hours of english conversation practice improve speaking skills",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+    "image_url": "https://d19gb5k9ejx8w0.cloudfront.net/uploads/2021/02/25205213/Tips_To_IMprove_English_Speaking_Skills_In_Kids-1.jpg",
+    "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "time": 15,
+    "lectures": "32",
+    "total_view": 100,
+    "title": "Do this to improve your speaking and listening skills",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
+    "image_url": "https://i.ytimg.com/vi/QOd6r0hhUi8/maxresdefault.jpg",
+    "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this weekend. Max has a 93-point advantage in the drivers’ championship over Ferrari’s Charles Leclerc ahead of the race. And at this rate, Max can cruise comfortably, to claim his 2nd Championship title this season. But Max does not want to lose his focus and momentum ahead of his home GP. He wants to claim his 10th win of the season in front of his home crowd in style. Recently, the Dutch GP unveiled a rather unique-looking trophy. And McLaren driver Lando Norris liked the new trophy.   a journalist asks lando if he likes the dutch gp trophy and if it will be his on sunday: “no, it’s max’s. everyone knows it’s max’s already. maybe max will give it to me, he has plenty.” i love lando norris and max verstappen friendship pic.twitter.com/LQh9cnwjLv — comfort lando norris (@safeforlando) August 31, 2022 The Brit was grabbing a bicycle in the F1 paddock when he was interviewed by Dutch press personnel. Norris was asked what he thought of the Dutch Grand Prix trophy. Norris replied, “Oh I loved it.” But he admitted he would not be able to take the trophy home. He said, “No, it’s Max’s. Everyone knows it’s Max’s already. Maybe he will give it to me, he has plenty.” Seems like Norris is not alone. As it is becoming more obvious amongst the drivers that the Dutch GP trophy has Max’s name written on it. And with a win this Sunday, even the Championship might have Max’s name for a second time. Also Read: Lando Norris hits out at Daniel Ricciardo amidst his $16.7 Million contract termination Max Verstappen unveils a new helmet for the Dutch GP Max Verstappen became the first Dutch driver to win an F1 race when he won the 2016 Spanish GP. He also became the first Dutchman to win the Championship title. And he would like to pay tribute to his father, Jos Verstappen who coached him during his karting days and developed him as a racing driver. Jos has also served as a manager for Max. Jos was an F1 driver who raced in F1 from 1994 to 2003. He has 106 race starts with no wins and he raced for a variety of teams from Benetton, Arrows, Tyrell and Honda. And for the Dutch GP, Max would be wearing a helmet that resembles the one worn by his father. He will be wearing it on a track on which he has raced numerous times while Karting with his father.   ᴀ ᴛʀɪʙᴜᴛᴇ ᴛᴏ ᴊᴏs ᴠᴇʀsᴛᴀᴘᴘᴇɴ Returning to Zandvoort as a World Champion, Max chose to honor his mentor and Dad by using Jos his iconic helmet design as an inspiration 1:2 and 1:4 scale models are now available https://t.co/SxY1Y14OH2 pic.twitter.com/tz2DdtXJM4 — Max Verstappen (@VerstappenCOM) August 30, 2022 Verstappen said in a video posted by him, “It’s a bit emotional as well. But I think it’s just really special to drive something like this because it’s also how I started in go-karting.” He added, “All the old pictures I have of go-karting are with this iconic design. So that’s why we thought it was a great idea to bring this back alive around Zandvoort.” Jos has never won a race in his F1 career. But wearing this helmet, Max might win his 10th race of the season and cement his name on the Championship trophy. Also Read: Max Verstappen can equalize Michael Schumacher-Sebastian Vettel joint record if he wins 4 more races in 2022 The post “Max Verstappen has plenty trophies” – Lando Norris wants $50 Million a year Dutch sensation to give him his trophy appeared first on The SportsRush."
+  }
+]
